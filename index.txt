@@ -3,3 +3,4 @@
 3. History - Page.
 4. Services - Page.
 5. Contact Us - Page.
+6. Gallery - Page
