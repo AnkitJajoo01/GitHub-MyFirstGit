@@ -4,3 +4,4 @@
 4. Services - Page.
 5. Contact Us - Page.
 6. Gallery - Page
+7. Notice Board - Page
